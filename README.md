@@ -42,6 +42,7 @@ Table of Contents
 - [Youtube](https://www.youtube.com/c/AleoSystems)
 - [Blog](https://www.aleo.org/blog)
 - [Medium](https://medium.com/@aleohq)
+- [White Paper](https://eprint.iacr.org/2018/962.pdf)
 - [Twitter](https://twitter.com/AleoHQ)
 - [Community Twitter](https://twitter.com/aleocommunity)
 
