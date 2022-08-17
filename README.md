@@ -1,4 +1,4 @@
-<h1 align="center">awesome-Aleo</h1>
+<h1 align="center">awesome-aleo</h1>
 
 <div align="center">
   🏎️🏎️🏎️
