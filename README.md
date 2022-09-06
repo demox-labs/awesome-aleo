@@ -22,11 +22,14 @@ Table of Contents
       * [Network Stats](#network-stats)
       * [Resources](#resources)
          * [Official Resources](#official-resources)
+            * [Developer Resources](#developer-resources)
             * [Podcast appearances](#podcast-appearances)
-            * [Tutorials &amp; Projects](#tutorials--projects)
          * [Unofficial Resources](#unofficial-resources)
             * [Tutorials & Articles](#tutorials--articles)
       * [Projects building on Aleo](#projects-building-on-aleo)
+        * [Mining and related projects](#mining--related-projects-dyor)
+      * [Learn more about ZKP](#learn-more-about-zero-knowledge-proofs)
+
 
 ## Network Stats
 - [Aleo Explorer](https://www.aleo.network/)
@@ -34,17 +37,34 @@ Table of Contents
 ## Resources
 
 ### Official Resources
-- [Website](https://www.aleo.org/)
-- [Developer Discord](https://discord.com/invite/aleohq)
+- [Aleo Website](https://www.aleo.org/)
+- [Discord](https://discord.com/invite/aleohq)
 - [Docs](https://developer.aleo.org/)
-- [Aleo Studio IDE](https://www.aleo.studio/)
 - [Company Github](https://github.com/AleoHQ)
 - [Youtube](https://www.youtube.com/c/AleoSystems)
 - [Blog](https://www.aleo.org/blog)
 - [Medium](https://medium.com/@aleohq)
+- [Aleo Wiki](https://bead-rocket-066.notion.site/Aleo-Wiki-a1fa89ccbd93436dab62fad3e30f53b1)
 - [White Paper](https://eprint.iacr.org/2018/962.pdf)
+- [Tokenomics](https://www.aleo.org/post/aleo-token-economics)
 - [Twitter](https://twitter.com/AleoHQ)
 - [Community Twitter](https://twitter.com/aleocommunity)
+- [Community Forum](https://community.aleo.org/)
+- [Community Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_7h2r9ti1m6nr1al9amqr8q4rt0@group.calendar.google.com&ctz=America/New_York)
+- [Community Updates](https://bead-rocket-066.notion.site/Community-Updates-9afb0e5356574d1f9f84ccd647283143)
+- [Community Call Slides](https://drive.google.com/drive/folders/1Rb9qDeuDix2BksEXqVM0rgXf1KEWmHs4)
+
+#### Developer Resources
+- [Official Github](https://github.com/AleoHQ)
+- [Leo Language](https://leo-lang.org/)
+- [Aleo Studio IDE](https://www.aleo.studio/)
+- [Aleo Package Manager](https://aleo.pm/)
+- [Aleo SDK](https://github.com/AleoHQ/aleo)
+- [snarkOS](https://github.com/AleoHQ/snarkOS/)
+- [snarkVM](https://github.com/AleoHQ/snarkVM/)
+- [marlin](https://github.com/arkworks-rs/marlin)
+- [Feature Bounties Program](https://bead-rocket-066.notion.site/Feature-Bounties-2a4d1c4f899b44f1b6e1ae0984e5850c)
+
 
 #### Podcast appearances
 - [Zero Knowledge • Episode 144: Aleo with Howard Wu](https://zeroknowledge.fm/144-2/)
@@ -55,17 +75,28 @@ Table of Contents
 - [Zero Knowledge • Episode 221:  Funding the Next Wave of Zero Knowledge Tech](https://zeroknowledge.fm/221-2/)
 - [CoinGecko Podcast • Episode 64: The Importance of Zero-knowledge Proof with Alex Pruden, COO of Aleo](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64)
 
-#### Tutorials & Projects
-- [Aleo Package Manager](https://aleo.pm/)
-
 ### Unofficial Resources
 
 #### Tutorials & Articles
 - [Getting Started with Aleo instructions](https://www.entropy1729.com/getting-started-aleo-instructions/)
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/)
+- [Leo Development Starter Pack](https://www.entropy1729.com/leo-development-starter-pack/)
 
 ## Projects building on Aleo
-- [Demox Labs (Stable Coin)](https://www.demoxlabs.xyz/)
+- [Demox Labs (Wallet)](https://www.demoxlabs.xyz/)
 - [Medici Collective](https://www.medicicollective.co/)
 - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs)
 - [Entropy1729](https://twitter.com/1729entropy)
+
+#### Mining & Related Projects (DYOR)
+- [AleoX](https://www.aleox.io/)
+- [HPOOL](https://www.hpool.in/)
+- [ZK.Work](https://zk.work/en)
+- [ZKRush](https://www.zkrush.com/)
+- [Aleo Light Prover](https://github.com/HarukaMa/aleo-prover)
+- [Aleo Mining Pool Server](https://github.com/HarukaMa/aleo-pool-server)
+
+## Learn more about Zero Knowledge Proofs
+- [awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [Aleo ZK Encyclopedia](https://bead-rocket-066.notion.site/Zk-Encyclopedia-6675b8e5bdf243c994ca243cf417c3d0)
+
