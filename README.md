@@ -83,7 +83,7 @@ Table of Contents
 - [Leo Development Starter Pack](https://www.entropy1729.com/leo-development-starter-pack/)
 
 ## Projects building on Aleo
-- [Demox Labs (Wallet)](https://www.demoxlabs.xyz/)
+- [Leo Wallet](https://leo.app/)
 - [Medici Collective](https://www.medicicollective.co/)
 - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs)
 - [Entropy1729](https://twitter.com/1729entropy)
